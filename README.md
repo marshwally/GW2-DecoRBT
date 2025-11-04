@@ -3,7 +3,8 @@ Python script that could be run to move Guild Wars 2 homestead decoration to any
 
 ## Description
 This program will reads two layout files, specifically named `RBT_origin` and `RBT_shift` to generate the output. The output is a layout file with a combined `<props>` from both.
-`RBT_origin`	= the decoration you want to move, and one new prop (point of reference)
+
+`RBT_origin`	= the decoration you want to move, and one new prop (point of reference)\n
 `RBT_shift` 	= the new prop (point of reference) inside the destination layout
 > This program will move every single `<prop>` inside `RBT_origin`.
 
