@@ -1,5 +1,3 @@
-You need to have these requirements installed on your PC to be able to use the source code.
-
 # Requirements
   - Python 3.8 or higher
   - NumPy
