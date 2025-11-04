@@ -13,4 +13,5 @@ Copy the `GW2 DecoRBT.py` from the `source` folder to your own PC, and place the
 ## Requirements
   - Python 3.8 or higher
   - NumPy (`pip install numpy`)
-  - Pyinstaller (If you wish to make it portable exe, so that you can run it from 
+If you wish to make it portable exe, so that you can run it from `C:/.../Documents/Guild Wars2/Homesteads` directory in your PC
+  - Pyinstaller
