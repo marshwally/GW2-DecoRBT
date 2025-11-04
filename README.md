@@ -8,7 +8,7 @@ This program will reads two XML layout files, specifically named `RBT_origin` an
 > RBT_shift 	= the new prop (point of reference) inside the destination layout
 
 ## How to Use
-1. Load any decoration layout (**must be isolated**) that you want to move, inside the game.
+1. Load any decoration layout that you want to move, inside the game (**must be an isolated decoration**).
 2. Spawn a new `<prop>` and place it in a good anchor point.
 3. Save the layout as `RBT_origin`.
 4. Load your destination layout.
