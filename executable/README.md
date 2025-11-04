@@ -1,8 +1,7 @@
-**Program**: GW2 DecoRBT.exe
-**Built with**: Python 3.12 and PyInstaller 6.15
-**Author**: Marshwally (Kroenen.9561)
-**SHA-256 checksum**: 
-**Purpose**: Exceutable program that will helps Guild Wars 2 players to move group of decoration in their homestead. 
+**Program**: GW2 DecoRBT.exe  
+**Built with**: Python 3.12 and PyInstaller 6.15  
+**Author**: Marshwally (Kroenen.9561)  
+**SHA-256 checksum**:   
 
 ## Notes:
 - Single executable
