@@ -1,4 +1,4 @@
-# Details
+## Details
 **Program**  : GW2 DecoRBT.exe  
 **Built with**  : Python 3.12 and PyInstaller 6.15  
 **Author**  : Marshwally (Kroenen.9561)  
