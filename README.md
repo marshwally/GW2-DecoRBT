@@ -1,4 +1,4 @@
-# GW2-DecoRBT
+# GW2 DecoRBT
 Python script that could be run to move Guild Wars 2 homestead decoration to any coordinates/orientation you want.   
 
 ## Description
