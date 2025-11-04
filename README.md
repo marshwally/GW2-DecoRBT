@@ -12,7 +12,7 @@ This program will reads two XML layout files, specifically named `RBT_origin` an
 2. Spawn a new `<prop>` and place it in a good anchor point.
 3. Save the layout as `RBT_origin`.
 4. Load your destination layout.
-5. Spawn the same `<prop>` you use previously, and place it somewhere you want to put the decoration inside the new layout.
+5. Spawn the same `<prop>` you use previously, and place it somewhere you want to put the decoration.
 6. Save the layout as `RBT_shift`.
 7. Move `RBT_origin` and `RBT_shift` to the same folder as your own `GW2 DecoRBT.py` or `GW2 DecoRBT.exe`.
 8. Run the program.
