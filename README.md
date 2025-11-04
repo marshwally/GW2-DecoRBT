@@ -7,6 +7,7 @@ This program will reads two layout files, specifically named `RBT_origin` and `R
 `RBT_origin`	= the decoration you want to move, and one new prop (point of reference)
 
 `RBT_shift` 	= the new prop (point of reference) inside the destination layout
+
 **This program will move every single `<prop>` inside `RBT_origin`.**
 
 ## How to Use
