@@ -8,10 +8,10 @@ This program will reads two XML layout files, specifically named `RBT_origin` an
 > RBT_shift 	= the new prop (point of reference) inside the destination layout
 
 ## How to Use
-1. Load any decoration layout that you want to move, inside the game (**must be an isolated decoration**).
-2. Spawn a new `<prop>` and place it in a good anchor point.
+1. Load any decoration layout that you want to move inside the game (**must be an isolated decoration**).
+2. Spawn a new `<prop>` and place it in a good anchor position.
 3. Save the layout as `RBT_origin`.
-4. Load your destination layout.
+4. Load your destination layout where you want to use your decoration.
 5. Spawn the same `<prop>` you use previously, and place it somewhere you want your decoration to be.
 6. Save the layout as `RBT_shift`.
 7. Move `RBT_origin` and `RBT_shift` to the same folder as your own `GW2 DecoRBT.py` or `GW2 DecoRBT.exe`.
