@@ -21,6 +21,7 @@ This program will reads two layout files, specifically named `RBT_origin` and `R
 
 For a demonstration, refer to: `https://youtube.com/shorts/j0plucAdZ1w?si=HBVfZ2hBtxycaYuV`
 
-## How to get the program for yourself:
+## How to get the program for yourself
+You have two options to choose from:
 1. If you have no problem downloading some requirements, you can head to the `source` folder and copy the `GW2 DecoRBT.py` to your PC.
 2. If you don't want any requirements, look inside `executable` folder and download the `GW2 DecoRBT.exe` into your PC.
