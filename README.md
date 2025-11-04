@@ -1,10 +1,11 @@
 # GW2-DecoRBT
 Simple python script that could be run to automatically edit Guild Wars 2 saved homestead layout files.   
 
-This program reads two XML layout files ("RBT_origin", "RBT_shift") to generate the output layout.
-> RBT_origin	= the decoration plus one new prop (point of reference)
+## Description
+This program will reads two XML layout files, specifically named `RBT_origin` and `RBT_shift` to generate the output. The output XML is a Guild Wars 2 layout file with a combined `props` from both files.
+> RBT_origin	= the decoration you want to move, and one new prop (point of reference)
 
-> RBT_shift 	= the new prop (point of reference) moved to new location 
+> RBT_shift 	= the new prop (point of reference) inside the destination layout
 
 # How to Use
 You got two options to choose from:
