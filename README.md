@@ -22,4 +22,4 @@ For demonstration, refer to: `https://youtube.com/shorts/j0plucAdZ1w?si=HBVfZ2hB
 ## Get It for Yourself
 You have two options to choose from:
 1. If you have no problem downloading some requirements and prefer the bare (no GUI) script, you can head to the `source` folder and copy the `GW2 DecoRBT.py`.
-2. If you don't want to download any requirements, look inside `executable` folder and choose whichever version you prefer.
+2. If you don't want to download any requirements, look inside `executables` folder and choose whichever version you prefer.
