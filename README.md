@@ -22,4 +22,4 @@ For demonstration, refer to: `https://youtube.com/shorts/j0plucAdZ1w?si=HBVfZ2hB
 ## Download
 You have two options to choose from:
 1. Head on over to the `source` folder to grab the bare python script (first release only).
-2. Head to the `releases` section (on the right-hand side) to grab one of the executable versions.
+2. Head to the `releases` section to grab one of the executable versions.
