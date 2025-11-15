@@ -4,4 +4,5 @@
 
 ## Notes
   - Single executable
-  - No network access, no external dependencies, no GUI at runtime.
+  - No network access
+  - No GUI at runtime.
