@@ -20,6 +20,4 @@ This program will automatically reads two layout files named `RBT_origin.xml` an
 For demonstration, refer to: `https://youtube.com/shorts/j0plucAdZ1w?si=HBVfZ2hBtxycaYuV`
 
 ## Get It for Yourself
-You have two options to choose from:
-1. If you have no problem downloading some requirements and prefer the bare (no GUI) script, you can head to the `source` folder and copy the `GW2 DecoRBT.py`.
-2. If you don't want to download any requirements, look inside `executables` folder and choose whichever version you prefer.
+If you have no problem downloading some requirements and prefer the bare (no GUI) script, you can head to the `source` folder and copy the `GW2 DecoRBT.py`.
