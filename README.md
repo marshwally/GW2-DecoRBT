@@ -15,4 +15,4 @@ For demonstration, refer to: `https://youtube.com/shorts/j0plucAdZ1w?si=HBVfZ2hB
 ## Get It for Yourself
 You have two options to choose from:
 1. If you have no problem installing some requirements, you can head to the `sources` folder and copy any one of the `GW2 DecoRBT.py`.
-2. If you just want the executable, you can download one of the versions from the `release`.
+2. If you just want the executable, you can download one of the versions from the `releases` section.
