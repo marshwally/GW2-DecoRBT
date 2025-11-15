@@ -2,13 +2,13 @@
 Python script that could be run to move group of Guild Wars 2 homestead/guild hall decoration to any coordinates/orientation.   
 
 ## Description
-This program will automatically reads two layout files named `RBT_origin.xml` and `RBT_shift.xml`.
+This script will automatically reads two layout files named `RBT_origin.xml` and `RBT_shift.xml`.
 
 `RBT_origin.xml`	= the decoration you want to move and point of reference prop
 
 `RBT_shift.xml` 	= the point of reference prop relocated inside the destination layout
 
-**This program will move every single `<prop>` inside `RBT_origin.xml` to `RBT_shift.xml` based on your point of reference.**
+**This script will move every single `<prop>` inside `RBT_origin.xml` to `RBT_shift.xml` based on your point of reference.**
 
 ## General Use
 1. Load a layout of any decoration that you want to move inside the game (**must be an isolated decoration**).
@@ -20,4 +20,4 @@ This program will automatically reads two layout files named `RBT_origin.xml` an
 For demonstration, refer to: `https://youtube.com/shorts/j0plucAdZ1w?si=HBVfZ2hBtxycaYuV`
 
 ## Get It for Yourself
-If you have no problem downloading some requirements and prefer the bare (no GUI) script, you can head to the `source` folder and copy the `GW2 DecoRBT.py`.
+You can head to the `sources` folder and copy any one of the `GW2 DecoRBT.py`.
