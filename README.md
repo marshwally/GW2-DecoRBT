@@ -14,8 +14,8 @@ This script will automatically reads two layout files named `RBT_origin.xml` and
 1. Load a layout of any decoration that you want to move inside the game (**must be an isolated decoration**).
 2. Spawn a new `<prop>` in a good anchor position, and save the layout as `RBT_origin`.
 3. Load your destination layout, place the same `<prop>` you use previously anywhere you see fit, and save the layout as `RBT_shift`.
-4. Move `RBT_origin` and `RBT_shift` to the same directory as your `GW2DecoRBT.exe`.
-5. Run the program.
+4. Move `RBT_origin` and `RBT_shift` to the same directory as your `GW2-DecoRBT.py` or `GW2-DecoRBT.exe`.
+5. Run it.
 
 For demonstration, refer to: `https://youtube.com/shorts/j0plucAdZ1w?si=HBVfZ2hBtxycaYuV`
 
